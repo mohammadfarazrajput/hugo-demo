@@ -1,0 +1,40 @@
+part_id,part_name,location,quantity_available
+P300,S1 V1 500W Brushless Motor,WH1,158
+P301,S1 V1 Li-Ion 36V 10Ah Battery Pack,WH2,173
+P302,S1 V1 Analog Controller ZX,WH2,257
+P303,S1 V1 Aluminum Frame,WH1,289
+P304,S1 V2 750W Brushless Motor,WH3,108
+P305,S1 V2 Li-Po 48V 12Ah Battery Pack,WH3,24
+P306,S1 V2 Digital Controller ZP,WH3,42
+P307,S1 V2 Carbon Fiber Frame,WH2,32
+P308,S2 V1 500W Brushless Motor,WH1,20
+P309,S2 V1 Li-Ion 36V 10Ah Battery Pack,WH2,160
+P310,S2 V1 Analog Controller ZX,WH2,167
+P311,S2 V1 Aluminum Frame,WH3,107
+P312,S2 V2 750W Brushless Motor,WH3,144
+P313,S2 V2 Li-Po 48V 12Ah Battery Pack,WH3,193
+P314,S2 V2 Digital Controller ZP,WH3,197
+P315,S2 V2 Carbon Fiber Frame,WH2,83
+P316,S3 V1 500W Brushless Motor,WH3,57
+P317,S3 V1 Li-Ion 36V 10Ah Battery Pack,WH1,272
+P318,S3 V1 Analog Controller ZX,WH2,217
+P319,S3 V1 Aluminum Frame,WH1,136
+P320,S3 V2 750W Brushless Motor,WH2,159
+P321,S3 V2 Li-Po 48V 12Ah Battery Pack,WH3,139
+P322,S3 V2 Digital Controller ZP,WH1,176
+P323,S3 V2 Carbon Fiber Frame,WH1,59
+P324,LCD Dashboard Display,WH1,44
+P325,10-inch Alloy Wheel,WH2,59
+P326,Mechanical Disc Brake,WH1,233
+P327,Standard LED Headlight,WH2,242
+P328,Standard Charger 42V,WH3,226
+P329,OLED Dashboard Display,WH3,54
+P330,12-inch Alloy Wheel,WH3,26
+P331,Hydraulic Disc Brake,WH1,45
+P332,Advanced LED Headlight with DRL,WH3,20
+P333,Fast Charger 42V 2A,WH2,128
+P334,Power Cable,WH3,209
+P335,Comfort Seat,WH1,283
+P336,Rear Fender,WH3,104
+P337,Hex Nut,WH1,229
+P338,Lock Washer,WH1,31
